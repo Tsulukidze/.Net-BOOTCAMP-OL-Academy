@@ -1,0 +1,15 @@
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\bin\Debug\net6.0\davaleba1.exe
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\bin\Debug\net6.0\davaleba1.deps.json
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\bin\Debug\net6.0\davaleba1.runtimeconfig.json
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\bin\Debug\net6.0\davaleba1.dll
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\bin\Debug\net6.0\davaleba1.pdb
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.csproj.AssemblyReference.cache
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.AssemblyInfoInputs.cache
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.AssemblyInfo.cs
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.csproj.CoreCompileInputs.cache
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.dll
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\refint\davaleba1.dll
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.pdb
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\davaleba1.genruntimeconfig.cache
+C:\Users\Tsulukidze\Desktop\OL Academy\davaleba1\obj\Debug\net6.0\ref\davaleba1.dll
